@@ -1,146 +1,188 @@
 {
   "basics": {
-    "name": "Steven Edouard",
-    "label": "Developer Evangelist",
-    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg ",
-    "email": "steven.edouard1@gmail.com",
-    "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
+    "name": "Waqas Ahmed",
+    "label": "Full Stack Software Engineer | I create end-to-end software applications using MEAN/LAMP Stack | Web Developer",
+    "picture": "https://media.licdn.com/mpr/mprx/0_lxZqPrQLEnB-2u9PPJHFPP6Ee9PY2u6PPRuwPP3zBKbm1HA1jMe4j1vRQR1T7wFxKysoyqxcoXOQ",
+    "email": "wakqasahmed@gmail.com",
+    "phone": "+971 56 241 8355",
+    "website": "http://www.wakqasahmed.com",
+    "summary": "Hands-on developing mobile and web applications using the latest, trending and greatest technologies, including:\n\n* MEAN-stack single-page apps: Node, Express, Angular, MongoDB.\n* AngularJS: separately used as and where required.\n* LAMP-stack web sites: Linux, Apache, MySQL, PHP.\n* Bootstrap, Zurb (foundation): Responsive web design to support desktop PCs, tablets, and mobile devices.\n* REST API: Restify/Express, Mongoose, MongoDB\n* Android apps: Cordova, Angular, Ionic.\n* Cloud services: Openshift, Heroku, Windows Azure.\n* Reporting and analytics.\n* Gamification, multi-platform, multi-lingual, and fully scalable applications development.\n* The Essentials: HTML5, CSS3, Javascript, JQuery\n* CMS: Wordpress, Sitefinity, Kentico\n\nMy additional expertise lies in:\n\nC#, ASP.NET, Oracle, Adobe Flex, MSSQL Server\nXML, Web Services, Windows Services\n\nA versatile individual who is Software Engineer by profession having over 4 years of full-time multi-disciplinary industry experience. An instant learner who is always keen to dive into latest technologies and implement them as required and beneficial.\n\nHaving passion and long-term vision to have the power of both the worlds (front-end and back-end), I worked towards the direction and became Full Stack Software Engineer. In my day to day job, I am engaged in high quality end-to-end applications development, that includes architecting, coding, implementing and maintaining responsive, robust and state-of-the-art modern applications. \n\nThough I have diverse experience in using technologies such as .NET, PHP and Flex, I am on the path to be an expert in MEAN stack and its various development forms in different scenarios. \n\nWith an ultimate goal to become successful in here and hereafter, I seek knowledge of both the worlds and implement them in my life and for the betterment of society whether in terms of personal or professional.",
     "location": {
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Dubai",
+      "countryCode": "",
+      "region": "United Arab Emirates"
     },
     "profiles": [
       {
+        "network": "Twitter",
+        "username": "wakqasahmed",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "wakqasahmed",
+        "url": "https://ae.linkedin.com/in/wakqasahmed"
+      },
+      {
         "network": "Resume Source",
-        "url": "http://github.com/sedouard/resume",
+        "url": "http://github.com/wakqasahmed/resume",
         "username": "This Resume is built from this Github Repo"
       },
       {
-        "network": "Twitter",
-        "username": "sedouard",
-        "url": "http://twitter.com/sedouard"
-      },
-      {
         "network": "Github",
-        "username": "sedouard",
-        "url": "https://github.com/sedouard"
+        "username": "wakqasahmed",
+        "url": "https://github.com/wakqasahmed"
       }
     ]
   },
   "work": [
     {
-      "company": "Microsoft",
-      "position": "Developer Evangelist",
-      "website": "http://microsoft.com",
-      "startDate": "2014-03-04",
-      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
+      "company": "Trix Corp",
+      "position": "Full Stack Senior Software Engineer",
+      "website": "http://www.trixcorp.com",
+      "startDate": "2012-08-28",
+      "endDate": "2015-03-31",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Created many technical blog posts focusing on cloud and web development with Microsoft tech",
-        "Successfully won Techcrunch Disrupt Hardware Sponsor Award",
-        "Delivered dozens of original technical presentations from high school to pro developers",
-        "Went from 12 to >100 average unique daily website views",
-        "Authored 2 articles on MSDN magazine"
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
     },
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer in Test, Common Language Runtime",
-      "website": "http://www.microsoft.com/net",
-      "startDate": "2012-01-22",
-      "endDate": "2014-03-04",
-      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
+      "company": "TPS - Cards & Payments Expert, Pakistan",
+      "position": "Software Engineer",
+      "website": "http://www.tpsonline.com",
+      "startDate": "2011-01-11",
+      "endDate": "2012-07-15",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
-        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
-        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
     },
     {
-      "company": "Lockheed Martin Mission Systems",
-      "position": "Software Engineer Intern (4 summers)",
-      "website": "http://www.lockheedmartin.com",
-      "startDate": "2008-01-22",
-      "endDate": "2011-08-01",
-      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
+      "company": "iAgent Solutions, Canada / C.R.E.A.M. Solutions, Pakistan",
+      "position": "Junior Software Engineer",
+      "website": "http://www.iagentsolutions.com",
+      "startDate": "2010-06-22",
+      "endDate": "2011-07-20",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Designed system requirements for autonomous underwater vehicle ",
-        "Designed and implemented features on common software for use with multiple vehicles ",
-        "Performed software cost estimates",
-        "Implemented software features for sonar system displays"
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "TEALS",
+      "organization": "CoderDojo",
       "position": "Teacher",
-      "website": "http://tealsk12.org",
-      "startDate": "2012-07-01",
-      "endDate": "2013-05-05",
-      "summary": "High school Teacher for an inner-city computer science class.",
+      "website": "http://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
       "highlights": [
-        "Featured in the International New York Times"
+        "Awarded 'Teacher of the Month'"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Florida",
-      "area": "Computer Engineering",
+      "institution": "SZABIST Dubai",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2016-07-01",
+      "gpa": "3.2",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    },
+    {
+      "institution": "University of Karachi",
+      "area": "Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-01",
-      "gpa": "3.47"
+      "startDate": "2007-01-01",
+      "endDate": "2010-12-31",
+      "gpa": "2.55",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
     }
   ],
   "awards": [
     {
-      "name": "Visual Studio Team Excellence Light House Award",
-      "date": "2013-04-01",
-      "awarder": "Visual Studio Team - Microsoft",
-      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
   "skills": [
     {
-      "name": "C# and .NET",
+      "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "C#"
+        "HTML",
+        "CSS",
+        "Javascript"
       ]
     },
     {
-      "name": "Node.js",
-      "level": "Intermediate",
-      "keywords": [
-        "javascript",
-        "express"
-      ]
-    },
-    {
-      "name": "Cloud Services",
+      "name": "Compression",
       "level": "Master",
       "keywords": [
-        "PaaS",
-        "Storage",
-        "APIs"
-      ]
-    },
-    {
-      "name": "iOS Application Development",
-      "level": "Intermediate",
-      "keywords": [
-        "Objective-C"
+        "Mpeg",
+        "MP4",
+        "GIF"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Full professional profeciency"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Native or bilingual profeciency"
+    },
+    {
+      "language": "Gujrati",
+      "fluency": "Native or bilingual profeciency"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Elementry profeciency"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic profeciency"
+    }    
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ]
 }
